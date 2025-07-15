@@ -17,3 +17,6 @@ LIST OF STAFF ID and CONTACT
 4. 	015-7654321
 5. 	016-2345678
 6. 	011-0825482
+
+NOTE
+PLEASE CHANGE server.js connection, query base on your setup
