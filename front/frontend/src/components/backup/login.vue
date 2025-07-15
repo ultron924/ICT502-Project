@@ -146,7 +146,7 @@ label {
 }
 
 input {
-  width: 87%;
+  width: 100%;
   padding: 12px 15px;
   border: 1px solid #ddd;
   border-radius: 6px;
@@ -164,7 +164,7 @@ input:focus {
   background-color: #6b3232;
   color: white;
   border: none;
-  padding: 16px;
+  padding: 14px;
   border-radius: 6px;
   font-size: 16px;
   font-weight: 600;
