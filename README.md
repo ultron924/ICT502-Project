@@ -1,5 +1,8 @@
 HOW TO RUN
 1. run the server.js first "node server.js"
+
+USE TWO TERMINAL ( One for server.js and One for Web)
+
 2. go to frontend folder "cd front" then "cd frontend"
 3. now, run the web app "npm run dev"
 
